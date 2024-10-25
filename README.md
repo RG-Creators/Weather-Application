@@ -10,7 +10,7 @@ I'm currently diving into web development and improving my skills in Python and 
 I'm looking to collaborate on projects related to app development, data management, and anything that involves creative problem-solving.
 
 ## 📫 Reach Me
-Feel free to reach out to me via my email at [your-email@example.com] or connect with me on LinkedIn.
+Feel free to reach out to me via my email at rgcreatorsofficial@gmail.com or connect with me on LinkedIn.
 
 ## 😄 Pronouns
 He/Him
