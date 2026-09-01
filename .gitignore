@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+vendor/
+.dart_tool/
+ephemeral/
+
+# Build outputs
+dist/
+build/
+*.dill
+*.apk
+*.ipa
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+.devpulse_backup/
